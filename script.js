@@ -14,8 +14,8 @@ document.addEventListener('DOMContentLoaded', (event) => {
     `;
 
     listaOrdenada.innerHTML = `
-        <li><a href="https://site1.com">Site 1</a></li>
-        <li><a href="https://site2.com">Site 2</a></li>
-        <li><a href="https://site3.com">Site 3</a></li>
+        <li><a href="https://github.com/WBorges1984" target="_blank">Github</a></li>
+        <li><a href="https://www.linkedin.com/in/willian-borges-60b7b068/" target="_blank">Linkedin</a></li>
+        <li><a href="https://www.globo.com/" target="_blank">Globo.com</a></li>
     `;
 });
